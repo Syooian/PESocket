@@ -38,6 +38,8 @@
     <Reference Include="System" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ClientSession.cs" />
+    <Compile Include="NetMsg.cs" />
     <Compile Include="PEMsg.cs" />
     <Compile Include="PEPkg.cs" />
     <Compile Include="PESession.cs" />
